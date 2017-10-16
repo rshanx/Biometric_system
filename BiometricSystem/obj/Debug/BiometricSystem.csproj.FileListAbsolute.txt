@@ -1,0 +1,17 @@
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\bin\Debug\BiometricSystem.exe.config
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\bin\Debug\BiometricSystem.exe
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\bin\Debug\BiometricSystem.pdb
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.csprojResolveAssemblyReference.cache
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.Properties.Resources.resources
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.csproj.GenerateResource.Cache
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.exe
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.pdb
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\bin\Debug\MySql.Data.dll
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\bin\Debug\MySql.Web.dll
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\bin\Debug\SecuGen.FDxSDKPro.Windows.dll
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.Main.resources
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.AdminLogin.resources
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.Navigate.resources
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.AddNew.resources
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.Attendance.resources
+F:\Mywindowsapps\BiometricSystem\BiometricSystem\obj\Debug\BiometricSystem.View.resources
